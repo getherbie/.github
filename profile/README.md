@@ -2,7 +2,7 @@
 
 > Create <u>small</u> but fully functional websites or blogs in no time and with little effort 👌
 
-Herbie CMS is a simple, modern, fast and highly customizable flat-file Content Management System powered by PHP, Twig, Markdown, Textile, reStructuredText and other human-readable text files.
+Herbie CMS is a simple and customizable flat-file Content Management System powered by PHP, Twig, and human-readable text files like Markdown, Textile, and reStructuredText.
 
 For more information, see <https://github.com/getherbie/herbie>.
 
