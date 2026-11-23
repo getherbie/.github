@@ -31,11 +31,11 @@ docker compose up website
 
 Open <http://localhost:8888>. No Docker? See the [full quick start](https://github.com/getherbie/herbie#quick-start).
 
-## At a glance
+## Try it yourself
 
-<!-- TODO: Replace this placeholder URL with a real screenshot, e.g.
-     https://raw.githubusercontent.com/getherbie/.github/main/profile/demo.png -->
-![Herbie demo with one of its seven starter themes](https://raw.githubusercontent.com/getherbie/.github/main/profile/demo.png)
+[![Launch the live demo](https://img.shields.io/badge/Demo-Launch%20now-brightgreen.svg?style=for-the-badge)](https://start.herbie.tebe.ch/)
+
+The demo ships with **7 themes** — no installation needed.
 
 ## Who is it for?
 
