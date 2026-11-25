@@ -40,10 +40,3 @@ The demo ships with **7 themes** — no installation needed.
 ## Who is it for?
 
 Developers and small teams who want a blog, portfolio, documentation site or landing page without the overhead of a database-driven CMS.
-
-## Need help or want to contribute?
-
-- [Open an issue](https://github.com/getherbie/herbie/issues)
-- [Read the documentation](https://herbie.tebe.ch/doc)
-- [Try the demo with 7 themes](https://start.herbie.tebe.ch/)
-- [Star the repository](https://github.com/getherbie/herbie) ⭐
